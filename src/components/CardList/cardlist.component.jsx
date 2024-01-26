@@ -1,6 +1,6 @@
 // cardlist.component.jsx
 import React from "react";
-import { Card } from '../Card/card.component'
+import { Card } from '../card/card.component'
 import "./cardlist.styles.css";
 
 export const CardList = ({ monsters }) => (
